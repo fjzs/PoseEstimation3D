@@ -1,0 +1,2 @@
+TRAINING_DATA = "H:/Mi unidad/Estudio/UCSD/Courses/Deep Learning for 3D data/Assignments/hw3/training_data"
+TESTING_DATA = "H:/Mi unidad/Estudio/UCSD/Courses/Deep Learning for 3D data/Assignments/hw3/testing_data"
